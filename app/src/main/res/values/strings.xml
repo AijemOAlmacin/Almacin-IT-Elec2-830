@@ -1,3 +1,25 @@
 <resources>
-    <string name="app_name">Hello Android</string>
+    <string-array name="planets_array">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+    </string-array>
+    <string name="HelloAndroid"/>
+
+    <string-array name="stars_array">
+        <item>Aldebaran</item>
+        <item>Altair</item>
+        <item>Antares</item>
+        <item>Arcturus</item>
+        <item>Betelgeuse</item>
+        <item>Canopus</item>
+        <item>Capella</item>
+        <item>Castor</item>
+    </string-array>
+
 </resources>

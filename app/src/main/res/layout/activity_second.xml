@@ -14,6 +14,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginRight="2dp"
         android:layout_marginBottom="8dp"
+        android:backgroundTint="#000"
         android:text="Send" />
 
     <TextView

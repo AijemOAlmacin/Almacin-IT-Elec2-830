@@ -9,9 +9,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="To" />
+
     <EditText
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="60dp"
         android:hint="Subject" />
     <EditText
         android:layout_width="match_parent"
@@ -24,5 +25,6 @@
         android:layout_width="130dp"
         android:layout_height="wrap_content"
         android:layout_gravity="right"
+        android:backgroundTint="#000"
         android:text="Send" />
 </LinearLayout>

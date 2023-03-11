@@ -4,7 +4,10 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#9C27B0"
-    tools:context=".FragmentB">
+    tools:context=".FragmentB"
+    android:layout_marginBottom="200px"
+    android:layout_marginTop="200px"
+    >
 
     <!-- TODO: Update blank fragment layout -->
 

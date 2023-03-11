@@ -5,6 +5,8 @@
     android:layout_height="match_parent"
     tools:context=".FragmentA"
     android:background="@color/black"
+    android:layout_marginBottom="200px"
+    android:layout_marginTop="200px"
     >
 
     <!-- TODO: Update blank fragment layout -->

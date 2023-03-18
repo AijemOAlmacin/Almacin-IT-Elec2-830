@@ -38,11 +38,11 @@ public boolean onCreateOptionsMenu(Menu menu){
  @Override
     public boolean onOptionsItemSelected(@NonNull MenuItem item){
         switch (item.getItemId()){
-            case R.id.dropdown_menu:
+            case R.id.search:
                 showAlertDialog();
                 break;
 
-            case R.id.search:
+            case R.id.dropdown_menu:
                 DialogFragment dialogFragment = new DialogFragment();
                 dialogFragment.show(getSupportFragmentManager(),"My Fragment");
                 break;
